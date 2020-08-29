@@ -30,7 +30,7 @@
     "js-yaml": "3.2.3",
     "lodash": "2.4.1",
     "lru-cache": "2.5.0",
-    "mime": "1.2.11",
+    "mime": "2.4.6",
     "moment": "2.8.4",
     "mongoose": "3.8.19",
     "negotiator": "0.4.9",
